@@ -55,7 +55,7 @@ We're currently looking for:
 
 We're in early MVP mode. You won’t just be coding — you’ll help **design the backbone of Web3 trust.**
 
-If you want to help build the future of safe investing, [join the discussion here](https://github.com/YOUR_REPO/discussions) or ping us in the StarkNet Basecamp.
+If you want to help build the future of safe investing, [join the discussion here](https://github.com/BytR-Ecosystems/starknest-public/discussions) or ping us in the StarkNet Basecamp.
 
 ---
 
