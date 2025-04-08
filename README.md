@@ -1,29 +1,19 @@
-# 🌌 ByteNest: The Mother DAO of Innovation
+# 🌐 ByteNestDAO
 
-> "Empowering the builders of tomorrow, today."
+### Decentralized Governance. Reinvented for the Real World.
 
----
-
-## 🚀 A New Era Begins
-
-ByteNest is more than a DAO — it's a movement. A collective of visionaries, creators, and disruptors united by a shared mission: to redefine what's possible in the decentralized world.
-
-Starting June 2025, ByteNest will open its doors to those ready to shape the future. Together, we’ll build, innovate, and lead the next wave of Web3 evolution.
+A next-gen compliance and governance protocol for serious DAOs.  
+Built for trust. Designed to scale. **Coming soon.**
 
 ---
 
-## 🌟 Why ByteNest?
+### 🔔 Stay in the loop
 
-- A **community-first approach** to innovation.
-- A **platform for collaboration** across ecosystems.
-- A **launchpad for groundbreaking ideas** that will transform industries.
+Be the first to get access to ByteNestDAO tools, updates, and early partner slots.
 
----
-
-## 🛠️ Join the Movement
-
-ByteNest isn’t just a DAO — it’s the foundation for a new decentralized future. Whether you're a developer, a designer, a strategist, or simply a dreamer, there’s a place for you here.
+👉 **[Join Early Access](#)** _(link coming soon)_
 
 ---
 
-**The future starts in June 2025. Will you be part of it?**
+©️ 2025 ByteNestDAO. All rights reserved.  
+🌐 bytenestdao.be · bytenestdao.io · bytenestdao.com
