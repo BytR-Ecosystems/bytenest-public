@@ -17,7 +17,7 @@ Be the first to get access to ByteNestDAO tools, updates, and early partner slot
 
 ### 🏛️ Legal Entity
 
-ByteNestDAO is an initiative by **[ByteRider BV](#)**  
+ByteNestDAO is an initiative by **[ByteRider BV](https://byterider.be/contact/)**  
 _(Link to legal info or company registry coming soon)_
 
 ---
